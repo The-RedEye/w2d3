@@ -96,6 +96,6 @@ class Board
     Board.print_grid(self.hidden_ships_grid)
   end
 
-
+  #-------------Part 3-------------
 
 end #end Board Class
